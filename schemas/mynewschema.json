@@ -1,0 +1,1 @@
+{"type":"object","title":"mynewschema","description":"my new schema","properties":{"myDate":{"format":"date","title":"myDate","type":"string","default":"2021-07-23"},"ID":{"title":"ID","type":"integer"}},"dependencies":{},"required":[]}
